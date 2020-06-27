@@ -1,8 +1,8 @@
 # 最新网址获取地址: 
-https://github.com/SCTO/WebSite
+https://github.com/GuGeYun/Website
 请收藏此地址, 随时获取我们最新网址, 防止失联!
 管理员邮箱:
-scto@sendemail.monster
+scto@cloudnotification.net
 
 ### 最新网址:
 
