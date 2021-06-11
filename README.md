@@ -1,4 +1,4 @@
-# 最新网址获取地址已经移动至: https://github.com/sctoCloud/Website
+# 项目移动至: https://github.com/sctoCloud/Website
 
 请收藏上文地址, 随时获取我们最新网址, 防止失联!
 
